@@ -1,2 +1,3 @@
-include ':app'
+include ':aidlserver'
+include ':aidlclient'
 rootProject.name = "04AIDLClient"
